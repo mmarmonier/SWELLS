@@ -61,7 +61,7 @@ To retrieve and **evaluate** inferences from OpenAI's batch API, use the `4_SWEL
 
 
 ### 🔍 **For documentary purposes** 
-We also provide an overview of our grammar template script (`grammar_template.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/Grammar_Template_Generator.ipynb">
+We also provide an overview of our grammar template script (`Grammar_Template_Generator.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/Grammar_Template_Generator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> ).
 
 🚨 **WARNING:** Some of these notebooks require an OpenAI API key, and users may incur significant costs upon running them. Be sure to check API pricing before proceeding.
