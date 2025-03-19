@@ -53,7 +53,7 @@ To perform **inference** on the test set using the OpenAI Batch API, use the `3_
 
 
 ### **🔹 Evaluation**
-To retrieve and **evaluate** inferences from OpenAI's batch API, use the `4_SWELLS_Evaluator.ipynb` notebook.
+To retrieve and **evaluate** inferences from OpenAI's Batch API, use the `4_SWELLS_Evaluator.ipynb` notebook.
 
 <a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/4_SWELLS_Evaluator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
