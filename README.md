@@ -32,14 +32,14 @@ This repository comprises a password-protected dataset (the password is `SWELLS`
 ### **🔹 Training Data Generation**
 To generate a **custom training set**, use the `1_SWELLS_Training_Set_Generator.ipynb` notebook. 
 
-<a target="_blank" href="https://colab.research.google.com/drive/1IS6YZihX_g29XVLCZzIR_plsv5kbKE5C?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/1_SWELLS_Training_Set_Generator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 
 ### **🔹 Supervised Fine-tuning**
 To perform **supervised fine-tuning** on GPT-4o-mini, use the `2_SWELLS_Supervised_finetuner.ipynb` notebook.
 
-<a target="_blank" href="https://colab.research.google.com/drive/1SlUT_g9EQEukND-2zbLTS0DYbcsFUfkq?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/2_SWELLS_Supervised_finetuner.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 
@@ -47,7 +47,7 @@ To perform **supervised fine-tuning** on GPT-4o-mini, use the `2_SWELLS_Supervis
 ### **🔹 Test Set Inference**
 To perform **inference** on the test set using the OpenAI Batch API, use the `3_SWELLS_Test_Set_Inferencer.ipynb` notebook.
 
-<a target="_blank" href="https://colab.research.google.com/drive/1X5447sq0H4OLIcfn3ovq_b9HA9eM-sUt?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/3_SWELLS_Test_Set_Inferencer.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 
@@ -55,13 +55,13 @@ To perform **inference** on the test set using the OpenAI Batch API, use the `3_
 ### **🔹 Evaluation**
 To retrieve and **evaluate** inferences from OpenAI's batch API, use the `4_SWELLS_Evaluator.ipynb` notebook.
 
-<a target="_blank" href="https://colab.research.google.com/drive/1zkIgOMdCCQ6GGAykTxO5t958RDv68OQ0?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/4_SWELLS_Evaluator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 
 
 ### 🔍 **For documentary purposes** 
-We also provide an overview of our grammar template script (`grammar_template.ipynb` <a target="_blank" href="https://colab.research.google.com/drive/1rcNh9huPVt9zNSVPWvE7SBB48EQFPOXR?usp=sharing">
+We also provide an overview of our grammar template script (`grammar_template.ipynb` <a target="_blank" href="https://colab.research.google.com/github/mmarmonier/SWELLS/blob/main/Grammar_Template_Generator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> ).
 
 🚨 **WARNING:** Some of these notebooks require an OpenAI API key, and users may incur significant costs upon running them. Be sure to check API pricing before proceeding.
