@@ -1,8 +1,6 @@
 # 🌊🌊 SWELLS - A Specialized Workbench for the Explicit Learning of Linguistic Structures
 [![Paper](http://img.shields.io/badge/Arxiv:2503.09454-B31B1B.svg)](https://arxiv.org/abs/2503.09454)
 
-🚧 **Work in Progress!** This repository is an **early version** of SWELLS.
-
 <p align="center">
   <picture>
     <!-- Dark Mode SVG -->
@@ -23,7 +21,7 @@ This repository accompanies the research paper:
 > *Malik Marmonier, Rachel Bawden, Benoît Sagot*  
 > [Preprint available on ArXiv](https://arxiv.org/abs/2503.09454)
 
-The project explores whether **LLMs can explicitly learn to generate specific linguistic phenomena** when provided with **relevant metalinguistic explanations from grammar book excerpts and dictionary entries**. It employs **cryptographically generated conlangs** as test environments to **control for prior knowledge interference and enhance result interpretability**.
+This study explores whether **LLMs can explicitly learn to generate specific linguistic phenomena** when provided with **relevant metalinguistic explanations from grammar book excerpts and dictionary entries**. It employs **cryptographically generated conlangs** as test environments to **control for prior knowledge interference and enhance result interpretability**. It was funded by the French _Agence Nationale de la Recherche_ (ANR) under the project [TraLaLaM](https://ressources.chapsvision.com/fr/tralalam/projet).
 
 ## 🧩 **Usage**
 
