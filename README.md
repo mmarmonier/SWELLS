@@ -21,7 +21,7 @@ This repository accompanies the research paper:
 > *Malik Marmonier, Rachel Bawden, Benoît Sagot*  
 > [Preprint available on ArXiv](https://arxiv.org/abs/2503.09454)
 
-This study explores whether **LLMs can explicitly learn to generate specific linguistic phenomena** when provided with **relevant metalinguistic explanations from grammar book excerpts and dictionary entries**. It employs **cryptographically generated conlangs** as test environments to **control for prior knowledge interference and enhance result interpretability**. It was funded by the French _Agence Nationale de la Recherche_ (ANR) under the project [TraLaLaM](https://ressources.chapsvision.com/fr/tralalam/projet).
+This study explores whether **LLMs can explicitly learn to generate specific linguistic phenomena** when provided with **relevant metalinguistic explanations from grammar book excerpts and dictionary entries**. It employs **cryptographically generated conlangs** as test environments to **control for prior knowledge interference and enhance result interpretability**. It was funded by the French _Agence Nationale de la Recherche_ (ANR) under project [TraLaLaM](https://ressources.chapsvision.com/fr/tralalam/projet).
 
 ## 🧩 **Usage**
 
