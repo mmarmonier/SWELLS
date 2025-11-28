@@ -1,5 +1,5 @@
 # 🌊🌊 SWELLS - A Specialized Workbench for the Explicit Learning of Linguistic Structures
-[![Paper](http://img.shields.io/badge/Arxiv:2503.09454-B31B1B.svg)](https://arxiv.org/abs/2503.09454)
+[![EMNLP 2025](https://img.shields.io/badge/EMNLP-2025-blue.svg)](https://aclanthology.org/2025.emnlp-main.1599/) [![Paper](http://img.shields.io/badge/Arxiv:2503.09454-B31B1B.svg)](https://arxiv.org/abs/2503.09454)
 
 <p align="center">
   <picture>
